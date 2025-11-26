@@ -1,9 +1,9 @@
 # my first python project
 # fibonacci number
 
-### iteration method
+### iteration method*
 **logic:::**
-*logic:::*
+***logic:::*
 
 ```
 **logic:::**
@@ -15,5 +15,5 @@ while n>0:
  ```
  "![Referrence _image](/output.png)"
  ###Github Account link
- 
+
  <https://github.com/Miduna-2005/Python_project.git>
