@@ -1,0 +1,13 @@
+#import tkinter
+import tkinter as tk
+from tkinter import *
+#from tkinter import ttk #represents manually
+root=tk.Tk()
+root.title("Python Tkinter App")
+root.geometry("600x400")
+label=tk.Label(root,text="Hello World! This is Tkinter App").grid()
+Button(root, background="red",foreground="white", text="Click Me").grid()
+#dont create extra variables for grid just use
+root.mainloop()
+#should no name as tkinter.py it will show attribute error so save other than tkinter.py
+
